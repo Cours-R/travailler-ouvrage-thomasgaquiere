@@ -2,7 +2,9 @@
 title: "Modèle de livre, rapport, thèse"
 author: "Eric Marcon"
 date: "26 avril 2020"
-output: html_document
+output:
+  pdf_document: default
+ 
 ---
 
 # Modèle d'ouvrage
