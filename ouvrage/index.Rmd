@@ -4,7 +4,7 @@ author: "Prénom NomAuteur"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 always_allow_html: yes
-description: "Modèle de livre écrit avec bookdown."
+description: "Thèse"
 maintitlepage:
   epigraph: |
     Texte optionnel ajouté en haut de la page au verso du titre du document.
@@ -62,7 +62,7 @@ PhD-HDR:
     name: Prénom NomJury7
     status: Professeur d'Université
     other: Membre du Jury
-documentclass: memoir
+documentclass: these
 classoption:
   - extrafontsizes
   - onecolumn
